@@ -25,7 +25,7 @@
 - ⚡ Skilled in requirement gathering, process mapping & workflow documentation
 - 🚀 Love bridging **technical solutions ↔️ business needs** 
 - 🌱 Currently learning **Advanced Web & Mobile App Development**  
-- 🔍 Seeking **Internship Opportunities** to apply my skills in real-world projects
+- 💻 **Software Quality Assuarance** & **Business Analyst** Intern at Sri Lanka Telecom.
 - ⚡ Fun fact: I enjoy **creative problem solving & teamwork** 
 
 ---
